@@ -1,13 +1,13 @@
 ### Hi everyone 👋
 
-I'm Kelly, a **self-motivated** and **creative** **Front-End Developer**,
-sharpened Front-End skills about **React**, **Styled Components**, and **Tailwind**.<br>
+I'm Kelly, currently a **self-motivated** and **creative** **Front-End Developer**,
+sharpened Front-End skills about **React**, **TypeScript**, **Styled Components**, and **Tailwind**.<br>
 
-✨ Previously, I participated in **Interaction Design** and **Community Art** as a **project manager** and **idea proposer** to **communicate with Front-End engineer** and **UI designer**. <br>
+✨ Previously, I participated in Interaction Design and Community Art as a project manager and idea proposer to **communicate with Front-End engineer** and **UI designer**. <br>
 ✨ I also have **good time management**, **high aesthetic feelings**, **multitasking capability** and communication skills to **handle multiple positions** around manufactory, worker, and owner.
 
-I expect myself to optimize and provide solutions that are intuitive user-friendly, adaptable and effective.
-Welcome to my GitHub!
+I expect myself to optimize and provide solutions that are intuitive user-friendly, adaptable and effective.<br>
+**Welcome to my GitHub!**
 
 ##
 ### Project
